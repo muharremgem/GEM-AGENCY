@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GEM Digital</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://unpkg.com/i18next@20.6.1/i18next.min.js"></script>
+  <script src="https://unpkg.com/i18next-http-backend@1.4.1/i18nextHttpBackend.min.js"></script>
+  <script src="https://unpkg.com/jquery@3.6.0/dist/jquery.min.js"></script>
+      <!-- Required Meta Tags -->
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+      <!-- Bootstrap CSS -->
+      <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+      <!-- Flaticon CSS -->
+      <link rel="stylesheet" href="assets/fonts/flaticon.css" />
+      <!-- Boxicons CSS -->
+      <link rel="stylesheet" href="assets/css/boxicons.min.css" />
+      <!-- Owl Carousel CSS -->
+      <link rel="stylesheet" href="assets/css/owl.theme.default.min.css" />
+      <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
+      <!-- Magnific Popup CSS -->
+      <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
+      <!-- Animate Min CSS -->
+      <link rel="stylesheet" href="assets/css/animate.min.css" />
+      <!-- Meanmenu CSS -->
+      <link rel="stylesheet" href="assets/css/meanmenu.css" />
+      <!-- Style CSS -->
+      <link rel="stylesheet" href="assets/css/style.css" />
+      <!-- Responsive CSS -->
+      <link rel="stylesheet" href="assets/css/responsive.css" />
+      <!-- Theme Dark CSS -->
+      <link rel="stylesheet" href="assets/css/theme-dark.css" />
+  
+      <script type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+      </script>
+      <script type="text/javascript">
+      (function(){
+        emailjs.init("K38blwgxfYcrrDUje");
+      })();
+      </script>
+  
+      <title>Muharrem GEM | Dijital Pazarlama Ajansı    </title>
+  
+      <!-- Favicon -->
+      <link rel="icon" type="image/png" href="assets/img/logo/logo.png" />
+</head>
+<body>
+  <!-- Language Switcher -->
+  <div class="language-switcher">
+    <button id="lang-en" onclick="setLanguage('en')">English</button>
+    <button id="lang-tr" onclick="setLanguage('tr')">Türkçe</button>
+  </div>
+
+  <!-- Navbar -->
+  <div class="navbar-area">
+    <div class="main-nav nav-bar-two">
+      <ul class="navbar-nav m-auto">
+        <li class="nav-item"><a href="#" class="nav-link active" data-lang="navbar.home">Ana Sayfa</a></li>
+        <li class="nav-item"><a href="#hizmetler" class="nav-link" data-lang="navbar.services">Hizmetler</a></li>
+        <li class="nav-item"><a href="#hakkımızda" class="nav-link" data-lang="navbar.about">Hakkımızda</a></li>
+        <li class="nav-item"><a href="#neleryapıyoruz" class="nav-link" data-lang="navbar.whatWeDo">Neler Yapıyoruz</a></li>
+        <li class="nav-item"><a href="#projeler" class="nav-link" data-lang="navbar.projects">Projelerimiz</a></li>
+        <li class="nav-item"><a href="#iletişim" class="nav-link" data-lang="navbar.contact">İletişim</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Banner -->
+  <div class="main-banner-two">
+    <div class="d-table">
+      <div class="d-table-cell">
+        <div class="container">
+          <div class="main-banner-content text-center">
+            <h1 data-lang="banner.bestForYou">Sizin için en iyisi</h1>
+            <p data-lang="banner.strongSEO">Güçlü <b>SEO</b>,<br /> Etkili <b>Reklamlar</b>, Sizi Öne Çıkaracak <b>Web Siteleri</b>!</p>
+            <p data-lang="banner.impressAudience">Hedef Kitlenizi Etkileyin, Gelirinizi Artırın! <b>Online</b> Varlığınızı Güçlendirelim, İşinizi Büyütün!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Services Section -->
+  <section id="hizmetler">
+    <div class="container">
+      <div class="section-title">
+        <h2 data-lang="services.title">Kapsamlı Dijital Pazarlama Çözümleri</h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 col-md-6">
+          <div class="single-services">
+            <h3 data-lang="services.socialMediaAd">Sosyal Medya Reklamı</h3>
+            <p data-lang="services.socialMediaAdDescription">Profesyonel ekibimiz, hedef kitlenizi analiz eder ve size özgü sosyal medya reklam stratejileri geliştirir. Yaratıcı içerikler oluşturur, hedeflenmiş reklam kampanyaları yönetir ve reklam bütçenizi en iyi şekilde optimize ederiz. Müşterilerinizin ilgisini çekecek etkileyici görseller, videolar ve metinlerle markanızı ön plana çıkarırız.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="single-services">
+            <h3 data-lang="services.website">Web Site</h3>
+            <p data-lang="services.websiteDescription">Web siteniz, markanızı çevrimiçi olarak temsil eden kilit bir araçtır. İşletmenizin benzersiz kimliğini yansıtacak özelleştirilmiş web tasarımlarıyla profesyonel bir görünüm elde edeceksiniz.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="single-services">
+            <h3 data-lang="services.seo">SEO</h3>
+            <p data-lang="services.seoDescription">Online varlığınızı güçlendirmek ve arama motorlarında üst sıralarda yer almak için SEO'nun gücünü keşfedin! GEM Dijital olarak, SEO uzmanlığımızla işletmenizin dijital başarısını artırmak için size destek sağlıyoruz.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="hakkımızda">
+    <div class="container">
+      <div class="section-title">
+        <h2 data-lang="about.title">Dijital Başarı İçin Yanınızdayız</h2>
+      </div>
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <div class="about-img">
+            <img src="assets/img/about-img.jpg" alt="About Image">
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="about-content">
+            <h2 data-lang="about.description">Siz de işletmenizin dijital varlığını büyütmek ve başarılı olmak için ajansımızla birlikte çalışın. GEM Dijital olarak, işletmenizin hedeflerine ulaşmanızda size destek olmaktan mutluluk duyarız.</h2>
+            <p data-lang="about.detail">Biz, dijital pazarlama konusunda uzmanlaşmış bir ajansız. İşletmenizin çevrimiçi varlığını güçlendirmek ve rekabet avantajı elde etmek için özelleştirilmiş çözümler sunuyoruz. İşletmenizin büyümesine odaklanarak, dijital pazarlama stratejilerimizle sizi hedeflerinize ulaştırıyoruz.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Team Section -->
+  <section id="ekibimiz">
+    <div class="container">
+      <div class="section-title">
+        <h2 data-lang="team.title">Uzman Ekibimizle Tanışın</h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 col-md-6">
+          <div class="single-team">
+            <h3 data-lang="team.member1.name">John Doe</h3>
+            <p data-lang="team.member1.position">CEO</p>
+            <p data-lang="team.member1.bio">John, GEM Dijital'in CEO'su ve dijital pazarlama alanında 10 yılı aşkın deneyime sahiptir.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="single-team">
+            <h3 data-lang="team.member2.name">Jane Smith</h3>
+            <p data-lang="team.member2.position">Pazarlama Direktörü</p>
+            <p data-lang="team.member2.bio">Jane, Pazarlama Direktörü ve SEO ile sosyal medya pazarlaması konusunda uzmanlaşmıştır.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="iletişim">
+    <div class="container">
+      <div class="section-title">
+        <h2 data-lang="contact.title">Bize Ulaşın</h2>
+      </div>
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="contact-info">
+            <p data-lang="contact.description">Sizden haber almak isteriz! İşletmenizin hedeflerine ulaşmanızda nasıl yardımcı olabileceğimizi konuşmak için bugün bizimle iletişime geçin.</p>
+            <p data-lang="contact.address">1234 Cadde, Şehir, Ülke</p>
+            <p data-lang="contact.phone">+123 456 7890</p>
+            <p data-lang="contact.email">info@gemdigital.com</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Include JavaScript at the bottom of the page -->
+  <script>
+    function setLanguage(lang) {
+      fetch(`/lang/${lang}.json`)
+        .then(response => response.json())
+        .then(data => {
+          document.querySelectorAll('[data-lang]').forEach(element => {
+            const key = element.getAttribute('data-lang');
+            const keys = key.split('.');
+            let value = data;
+            keys.forEach(k => value = value[k]);
+            element.innerHTML = value;
+          });
+        });
+    }
+
+    // Default language
+    setLanguage('tr');
+  </script>
+
+<script>
+  function setLanguage(lang) {
+    fetch(`/lang/${lang}.json`)
+      .then(response => response.json())
+      .then(data => {
+        document.querySelectorAll('[data-lang]').forEach(element => {
+          const key = element.getAttribute('data-lang');
+          const keys = key.split('.');
+          let value = data;
+          keys.forEach(k => value = value[k]);
+          element.innerHTML = value;
+        });
+      });
+  }
+
+  // Default language
+  setLanguage('tr');
+</script>
+
+</body>
+</html>
