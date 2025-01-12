@@ -1,0 +1,166 @@
+{
+  "title": "Muharrem GEM | Digital Marketing Agency",
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "whatWeDo": "What We Do",
+    "projects": "Our Projects",
+    "contact": "Contact"
+  },
+  "banner": {
+    "bestForYou": "Best for You",
+    "seo": "High Ranking ",
+    "etki": "Revenue",
+    "ads": "  Machine Ads",
+    "websites": "Converting Websites ",
+    "siz": "",
+    "onlinePresence": "",
+    "impressAudience": "Impress Your Audience, Increase Your Revenue! Strengthen Your Online Presence, Grow Your Business!"
+  },
+
+  "cta_buttons": {
+    "freeQuote": "GET FREE CONSULTATION ",
+    "phoneNumber": "+90 546 401 01 28"
+  },
+
+  "services": {
+    "title": "Comprehensive Digital Marketing Solutions",
+    "socialMediaAd": "Facebook, Instagram & Google Ads",
+    "socialMediaAdDescription": "Our professional team analyzes your target audience and develops digital advertising strategies tailored to your business goals. We create creative content, manage targeted advertising campaigns to build you a long term revenue machine.",
+    "website": "Web Site",
+    "websiteDescription": "Your website is a key tool that represents your brand online. We design and develop customized websites that both convert and help you rank high on search engines.",
+    "seo": "SEO",
+    "seoDescription": "Discover the power of SEO to strengthen your online presence and rank high in search engines! As GEM Digital, we support your digital success with our SEO expertise.",
+    "span": "Services"
+  },
+  "about": {
+    "list": {
+      "digitalMarketingStrategies": "Digital Marketing Strategies",
+      "socialMediaManagement": "Social Media Management",
+      "seoOptimization": "SEO  Optimization",
+      "webDesignDevelopment": "Web Design and Development",
+      "adCampaigns": "Digital Ad Campaigns",
+      "facebookLeadAds": "Facebook Lead Ads"
+    },
+    "title": "We are by your side for digital success",
+    "description": "Work with our agency to grow your digital presence and succeed. As GEM Digital, we are happy to support you in achieving your business goals.",
+    "detail": "We are an agency specialized in digital marketing. We offer customized solutions to strengthen your business's online presence and gain a competitive advantage. By focusing on the growth of your business, we help you reach your goals with our digital marketing strategies."
+  },
+
+  "business": {
+    "solutionsTitle": "We Offer Professional Solutions for Your Business"
+  },
+  "analytics": {
+    "title": "Customer Analytics",
+    "description": "We use data analytics to understand your customers' behaviors and preferences. This way, you can personalize your marketing strategies to improve customer experience and increase your loyal customer base."
+  },
+  "support": {
+    "title": "Customer Support",
+    "description": "We provide effective customer support to ensure customer satisfaction. We work with an experienced support team to provide quick responses to your questions, resolve issues, and increase customer satisfaction."
+  },
+  "risk": {
+    "title": "Risk Analytics",
+    "description": "We analyze the potential risks your business may face. By identifying risks with data-driven approaches, we help you take preventive measures and ensure the sustainability of your business."
+  },
+  "bigData": {
+    "title": "Big Data Analytics",
+    "description": "By analyzing large data sets, we extract critical information for your business. We process data in a meaningful way to help you develop business strategies and gain a competitive advantage."
+  },
+  "businessAnalytics": {
+    "title": "Business Analytics",
+    "description": "We analyze the performance and operations of your business. By enabling data-driven decisions, we help you optimize your business processes, increase efficiency, and reduce costs."
+  },
+  "socialMediaAnalytics": {
+    "title": "Social Media Analytics",
+    "description": "We analyze data from social media platforms and help you optimize your brand's social media strategy. By tracking content performance, audience interactions, and competitive analysis, we ensure more effective results in social media marketing."
+  },
+  "projects": {
+    "title": "Our Projects",
+    "successStories": "Our Success Stories",
+    "description": "At Gem Digital, we meticulously manage every project and provide unique solutions. Here, you can see the value and successes we have provided to our clients with some of the projects we have completed. By clicking on each link, you can learn more about the projects we have carried out and discover the difference we have made.",
+    "button": "Our Projects",
+    "viewMore": "View More"
+  },
+  "countries": {
+    "canada": "Canada"
+  },
+  "swot": {
+    "title": "SWOT Analysis and Competitor Analysis",
+    "subtitle": "Discover How to Beat Your Competition on Digital",
+    "swotAnalysis": "SWOT Analysis",
+    "swotAnalysisDescription": "As a company, when determining our advertising strategies, we first analyze our strengths and weaknesses. Through SWOT analysis, we evaluate the internal and external factors of our company to strengthen our weaknesses and maintain our strengths by developing strategies. These analyses provide us with an important roadmap to provide the best service to our customers and gain a competitive advantage.",
+    "competitorAnalysisDescription": "At the same time, we are aware that we operate in a competitive market. Therefore, we closely monitor the activities of potential competitor firms by conducting competitor analysis. By analyzing the strengths and weaknesses of our competitors, we shape our strategies accordingly. While learning from the weaknesses of our competitors and making improvements in our own strategies, we also take inspiration from the successful aspects of successful competitors.",
+    "beyondCompetitionDescription": "SWOT analysis and competitor analysis help our company grow and increase its competitive strength. With these analyses, we aim to provide value to our customers by planning and implementing our strategies more effectively. Work with us to make your business strong and unbeatable in advertising strategies."
+  },
+  "swotCompetitorAnalysis": {
+    "title": "Competitor Analysis",
+    "description": "We are aware that we operate in a competitive market. Therefore, we closely monitor the activities of potential competitor firms by conducting competitor analysis. By analyzing the strengths and weaknesses of our competitors, we shape our strategies accordingly. While learning from the shortcomings of our competitors and making improvements in our own strategies, we also draw inspiration from the successful aspects of our competitors."
+  },
+  "swotBeyondCompetition": {
+    "title": "Go Beyond Competition",
+    "description": "SWOT analysis and competitor analysis help us enhance our company's growth and competitiveness. By planning and implementing our strategies more effectively through these analyses, we aim to provide value to our customers. Work with us to ensure that your business is strong and unmatched in your advertising strategies."
+  },
+  "testimonials": {
+    "title": "Customer Testimonials"
+  },
+  "testimonialItems": {
+    "content": "I am extremely satisfied with working with Gem Digital. Thanks to their excellent website design and effective digital marketing strategies, we have strengthened our online presence. Thank you!",
+    "seoSuccess": "We entrusted Gem Digital with our SEO efforts, and we are very pleased with the results. Our rankings in search engines have risen rapidly, and we have seen a significant increase in organic traffic. I highly recommend them!",
+    "socialMediaAds": "When we entrusted our Facebook and Instagram ads to Gem Digital, we saw a noticeable change in our business. We witnessed their professionalism in delivering the right messages to our target audience. Thank you for the collaboration.",
+    "customerSatisfaction": "Gem Digital truly offers top-notch customer satisfaction. They completely accommodated our requests for website design and supported us at every stage. Thank you for the collaboration!",
+    "digitalMarketingTraining": "Thanks to the digital marketing training provided by Gem Digital, we are now able to manage our marketing strategies ourselves. Their detailed information and sincere approach greatly contributed to us. They are definitely experts in their field!"
+  },
+  "header": {
+    "waitForProject": "We are eagerly waiting to start working on your project."
+  },
+
+  "paragraph": {
+    "intro": "As GEM Digital, we help you grow your business by focusing on your digital marketing needs. Unleash your unlimited potential with our innovative solutions!"
+  },
+  "heading": {
+    "address": "Address"
+  },
+  "location": {
+    "istanbul": "Istanbul / TURKEY"
+  },
+  "tecrube": {
+    "years": "4 Years",
+    "experience": "Experience",
+    "satisfaction": "Satisfaction",
+    "income": "Income"
+  },
+  "innerBanner": {
+    "deliveredProjects": "Completed Projects",
+    "homePage": "Home Page",
+    "projects": "Projects"
+  },
+  "blogTitle": {
+    "ourProjects": "View Our Projects",
+    "ourSuccessStories": "Our Success Stories",
+    "description": "As GEM Digital, we offer unique solutions to our clients with the projects we carry out worldwide. You can see the value we provide to our clients and the successes we achieve with the projects we have successfully completed in the USA, Canada, Turkey, the UK, and many other countries. By clicking on each link, you can learn more about the projects we have completed and discover the difference we make."
+  },
+  "blogBtn": {
+    "contactUsNow": "Contact Us Now"
+  },
+  "country": {
+    "america": "USA",
+    "england": "United Kingdom",
+    "turkey": "Turkey"
+  },
+  "button": {
+    "more": "View More"
+  },
+  "abouts": {
+    "title": "Who is Muharrem GEM?",
+    "intro1": "Hello, I am Muharrem Gem. Since 2020, I have been working professionally at Gem Digital Marketing Agency, which I founded. Our agency provides professional services in web design, social media consulting, social media advertising, Google Ads service, Google Maps SEO service, graphic design, and digital marketing expertise.",
+    "intro2": "During this process, we have provided digital services in many countries such as Canada, America, England, and Turkey. At the same time, as a software developer, I have developed comprehensive solutions in these areas and ensured that our clients are more effective in the digital world.",
+    "successesTitle": "Successes of Gem Digital Marketing Agency:",
+    "success1": "Lead Generation Ads: Nearly 1 million potential customers have been generated and connected with business owners.",
+    "success2": "Google Search Ads: More than $750,000 has been spent on Google ads to help businesses grow.",
+    "success3": "YouTube Ads: More than $100,000 has been spent on YouTube ads to create standout YouTube advertisements.",
+    "success4": "Ads Video Production: More than 10,000 ad videos have been produced.",
+    "success5": "SEO : More than 125,000 SEO keywords have been produced, ensuring companies rank high on Google.",
+    "success6": "Website Design & Development: More than 80 websites have been designed and over 980 pages created to enhance the digital presence of businesses."
+  }
+}

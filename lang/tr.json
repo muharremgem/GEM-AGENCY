@@ -1,0 +1,165 @@
+{
+  "title": "Muharrem GEM | Dijital Pazarlama Ajansı",
+  "navbar": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "about": "Hakkımızda",
+    "whatWeDo": "Neler Yapıyoruz",
+    "projects": "Projelerimiz",
+    "contact": "İletişim"
+  },
+
+  "banner": {
+    "bestForYou": "Sizin için en iyisi",
+    "seo": "Güçlü ",
+    "etki": "Etkili",
+    "ads": "  Reklamlar",
+    "siz": "Sizi Öne Çıkaracak",
+    "websites": "Web Siteleri",
+    "onlinePresence": "Online",
+    "impressAudience": "Hedef Kitlenizi Etkileyin, Gelirinizi Artırın!  Online Varlığınızı Güçlendirelim, İşinizi Büyütün! "
+  },
+  "cta_buttons": {
+    "freeQuote": "Ücretsiz Teklif Al",
+    "phoneNumber": "+90 546 401 01 28"
+  },
+
+  "services": {
+    "title": "Kapsamlı Dijital Pazarlama Çözümleri",
+    "socialMediaAd": "Sosyal Medya Reklamı",
+    "socialMediaAdDescription": "Profesyonel ekibimiz, hedef kitlenizi analiz eder ve size özgü sosyal medya reklam stratejileri geliştirir. Yaratıcı içerikler oluşturur, hedeflenmiş reklam kampanyaları yönetir ve reklam bütçenizi en iyi şekilde optimize ederiz. Müşterilerinizin ilgisini çekecek etkileyici görseller, videolar ve metinlerle markanızı ön plana çıkarırız.",
+    "website": "Web Site",
+    "websiteDescription": "Web siteniz, markanızı çevrimiçi olarak temsil eden kilit bir araçtır. İşletmenizin benzersiz kimliğini yansıtacak özelleştirilmiş web tasarımlarıyla profesyonel bir görünüm elde edeceksiniz.",
+    "seo": "SEO",
+    "seoDescription": "Online varlığınızı güçlendirmek ve arama motorlarında üst sıralarda yer almak için SEO'nun gücünü keşfedin! GEM Dijital olarak, SEO uzmanlığımızla işletmenizin dijital başarısını artırmak için size destek sağlıyoruz.",
+    "span": "Hizmetler"
+  },
+  "about": {
+    "list": {
+      "digitalMarketingStrategies": "Dijital Pazarlama Stratejileri",
+      "socialMediaManagement": "Sosyal Medya Yönetimi",
+      "seoOptimization": "SEO Optimizasyonu",
+      "webDesignDevelopment": "Web Tasarım ve Geliştirme",
+      "adCampaigns": "Reklam Kampanyaları",
+      "facebookLeadAds": "Facebook Lead Ads"
+    },
+    "title": "Dijital Başarı İçin Yanınızdayız",
+    "description": "Siz de işletmenizin dijital varlığını büyütmek ve başarılı olmak için ajansımızla birlikte çalışın. GEM Dijital olarak, işletmenizin hedeflerine ulaşmanızda size destek olmaktan mutluluk duyarız.",
+    "detail": "Biz, dijital pazarlama konusunda uzmanlaşmış bir ajansız. İşletmenizin çevrimiçi varlığını güçlendirmek ve rekabet avantajı elde etmek için özelleştirilmiş çözümler sunuyoruz. İşletmenizin büyümesine odaklanarak, dijital pazarlama stratejilerimizle sizi hedeflerinize ulaştırıyoruz."
+  },
+  "business": {
+    "solutionsTitle": "İşletmeniz İçin Profesyonel Çözümler Sunuyoruz"
+  },
+  "analytics": {
+    "title": "Müşteri Analitiği",
+    "description": "Müşterilerinizin davranışlarını ve tercihlerini anlamak için veri analitiği kullanıyoruz. Bu sayede, pazarlama stratejilerinizi kişiselleştirerek müşteri deneyimini geliştirebilir ve sadık müşteri tabanınızı artırabilirsiniz."
+  },
+  "support": {
+    "title": "Müşteri Desteği",
+    "description": "Müşteri memnuniyetini sağlamak için etkili bir müşteri destek hizmeti sunuyoruz. Sorularınıza hızlı yanıtlar vermek, sorunları çözmek ve müşteri memnuniyetini artırmak için deneyimli bir destek ekibiyle birlikte çalışıyoruz."
+  },
+  "risk": {
+    "title": "Risk Analitiği",
+    "description": "İşletmenizin karşılaşabileceği potansiyel riskleri analiz ediyoruz. Veri odaklı yaklaşımlarla riskleri tespit ederek, önleyici önlemler almanıza ve işletmenizin sürdürülebilirliğini sağlamanıza yardımcı oluyoruz."
+  },
+  "bigData": {
+    "title": "Büyük Veri Analitiği",
+    "description": "Büyük veri setlerini analiz ederek, işletmeniz için önemli bilgileri çıkarıyoruz. Verileri anlamlı şekilde işleyerek iş stratejilerinizi geliştirmenize ve rekabet avantajı elde etmenize yardımcı oluyoruz."
+  },
+  "businessAnalytics": {
+    "title": "İş Analitiği",
+    "description": "İşletmenizin performansını ve operasyonlarını analiz ediyoruz. Veriye dayalı kararlar almanızı sağlayarak iş süreçlerinizi optimize ediyor, verimliliği artırmanıza ve maliyetleri azaltmanıza yardımcı oluyoruz."
+  },
+  "socialMediaAnalytics": {
+    "title": "Sosyal Medya Analitiği",
+    "description": "Sosyal medya platformlarından gelen verileri analiz ediyor ve markanızın sosyal medya stratejisini optimize etmenize yardımcı oluyoruz. İçerik performansını, hedef kitle etkileşimlerini ve rekabet analizini takip ederek, sosyal medya pazarlamasında daha etkili sonuçlar elde etmenizi sağlıyoruz."
+  },
+  "projects": {
+    "title": "Projelerimiz",
+    "successStories": "Başarı Hikayelerimiz",
+    "description": "Gem Digital olarak, her projemizi titizlikle yönetip benzersiz çözümler sunuyoruz. İşte tamamladığımız bazı projelerle müşterilerimize sağladığımız değer ve başarıları görebilirsiniz. Her bir linke tıklayarak, gerçekleştirdiğimiz projeler hakkında daha fazla bilgi edinebilir ve yarattığımız farkı keşfedebilirsiniz.",
+    "button": "Projelerimiz",
+    "viewMore": "Daha Fazla"
+  },
+  "countries": {
+    "canada": "Kanada"
+  },
+  "swot": {
+    "title": "SWOT Analizi ve Rakip Analizi",
+    "subtitle": "Güçlü Yanlarımızı Güçlendirin, Zayıf Yanlarımızı İyileştirin",
+    "swotAnalysis": "Swot Analizi",
+    "swotAnalysisDescription": "Şirket olarak, reklam stratejilerimizi belirlerken öncelikle güçlü ve zayıf yanlarımızı analiz ediyoruz. SWOT analiziyle şirketimizin iç ve dış faktörlerini değerlendirerek, zayıf yanlarımızı güçlendirmek ve güçlü yanlarımızı korumak için stratejiler geliştiriyoruz. Müşterilerimize en iyi hizmeti sunabilmek ve rekabet avantajı elde etmek için bu analizler bize önemli bir yol haritası sunmaktadır.",
+    "competitorAnalysisDescription": "Aynı zamanda, rekabetçi bir pazarda faaliyet gösterdiğimizin farkındayız. Bu nedenle, rakip analizi yaparak pazardaki muhtemel rakip firmaların faaliyetlerini yakından takip ediyoruz. Rakiplerimizin güçlü ve zayıf yönlerini analiz ederek, stratejilerimizi buna göre şekillendiriyoruz. Rakiplerimizin eksikliklerinden ders çıkartıp kendi stratejilerimizde iyileştirmeler yaparken, başarılı rakiplerin başarılı yönlerinden de ilham alıyoruz.",
+    "beyondCompetitionDescription": "SWOT analizi ve rakip analizi, şirketimizin büyümesine ve rekabet gücünün artmasına yardımcı olmaktadır. Bu analizlerle stratejilerimizi daha etkili bir şekilde planlayıp uygulayarak müşterilerimize değer sağlamayı hedefliyoruz. İşletmenizin reklam stratejilerinde güçlü ve rakipsiz olmanız için bizimle çalışın."
+  },
+  "swotCompetitorAnalysis": {
+    "title": "Rakip Analizi",
+    "description": "Aynı zamanda, rekabetçi bir pazarda faaliyet gösterdiğimizin farkındayız. Bu nedenle, rakip analizi yaparak pazardaki muhtemel rakip firmaların faaliyetlerini yakından takip ediyoruz. Rakiplerimizin güçlü ve zayıf yönlerini analiz ederek, stratejilerimizi buna göre şekillendiriyoruz. Rakiplerimizin eksikliklerinden ders çıkartıp kendi stratejilerimizde iyileştirmeler yaparken, başarılı rakiplerin başarılı yönlerinden de ilham alıyoruz."
+  },
+  "swotBeyondCompetition": {
+    "title": "Rekabetin Ötesine Geçin",
+    "description": "SWOT analizi ve rakip analizi, şirketimizin büyümesine ve rekabet gücünün artmasına yardımcı olmaktadır. Bu analizlerle stratejilerimizi daha etkili bir şekilde planlayıp uygulayarak müşterilerimize değer sağlamayı hedefliyoruz. İşletmenizin reklam stratejilerinde güçlü ve rakipsiz olmanız için bizimle çalışın."
+  },
+  "testimonials": {
+    "title": "Müşteri Yorumları"
+  },
+  "testimonialItems": {
+    "content": "Gem dijital ile çalışmaktan son derece memnun kaldım. Harika bir web sitesi tasarımı ve etkili dijital pazarlama stratejileri sayesinde işletmemin online varlığını güçlendirdik. Teşekkürler!",
+    "seoSuccess": "Şirketimizin SEO çalışmalarını Gem Dijital'e yaptırdık ve sonuçlardan çok memnunuz. Arama motorlarında sıralamamız hızla yükseldi ve organik trafikte büyük bir artış sağladık. Kesinlikle tavsiye ederim!",
+    "socialMediaAds": "Facebook ve Instagram reklamlarımızı Gem dijital'e teslim ettiğimizde işlerimizde gözle görülür bir değişim oldu. Hedef kitlemize doğru mesajları iletmek konusunda profesyonel bir ekip olduklarına şahit olduk. İşbirlikleri için teşekkür ederiz.",
+    "customerSatisfaction": "Gem dijital, müşteri memnuniyeti konusunda gerçekten üst düzey bir hizmet sunuyor. Web sitemizin tasarımı konusunda isteklerimize tam olarak uyum sağladılar ve her aşamada bize destek oldular. İşbirlikleri için teşekkür ederim!",
+    "digitalMarketingTraining": "Gem dijital verdiği dijital pazarlama eğitimi sayesinde işletmemizin pazarlama stratejilerini kendimiz yönetebilir hale geldik. Detaylı bilgi ve samimi yaklaşımlarıyla bize büyük katkı sağladılar. İşlerinde uzman bir ekip oldukları kesin!"
+  },
+
+  "header": {
+    "waitForProject": "Projenize bizimle başlamanızı sabırsızlıkla bekliyoruz."
+  },
+  "paragraph": {
+    "intro": "GEM Dijital olarak, dijital pazarlama ihtiyaçlarınıza odaklanarak işinizi büyütmenize yardımcı oluyoruz. İnovatif çözümlerimizle sınırsız potansiyelinizi ortaya çıkarın!"
+  },
+  "heading": {
+    "address": "Adres"
+  },
+  "location": {
+    "istanbul": "İstanbul / TÜRKİYE"
+  },
+  "tecrube": {
+    "years": "4 Yıl",
+    "experience": "Tecrübe",
+    "satisfaction": "Memnuniyet",
+    "income": "Gelir"
+  },
+  "innerBanner": {
+    "deliveredProjects": "Teslim Edilen Projeler",
+    "homePage": "Ana Sayfa",
+    "projects": "Projeler"
+  },
+  "blogTitle": {
+    "ourProjects": "Projelerimiz",
+    "ourSuccessStories": "Başarı Hikayelerimiz",
+    "description": "GEM dijital olarak, dünya çapında gerçekleştirdiğimiz projelerle müşterilerimize benzersiz çözümler sunuyoruz. Amerika, Kanada, Türkiye, İngiltere ve daha birçok ülkede başarıyla tamamladığımız projelerimizle müşterilerimize sağladığımız değeri ve elde ettiğimiz başarıları görebilirsiniz. Her bir linke tıklayarak, gerçekleştirdiğimiz projeler hakkında daha fazla bilgi edinebilir ve sunduğumuz farkı keşfedebilirsiniz."
+  },
+  "blogBtn": {
+    "contactUsNow": "Hemen İletişime Geç"
+  },
+  "country": {
+    "america": "Amerika",
+    "turkey": "Türkiye",
+    "england": "İngiltere"
+  },
+  "button": {
+    "more": "Daha Fazla"
+  },
+  "abouts": {
+    "title": "Muharrem GEM Kimdir?",
+    "intro1": "Merhabalar, ben Muharrem Gem. 2020 yılından beri, kurucusu olduğum Gem Dijital Pazarlama Ajansında profesyonel olarak çalışmaktayım. Ajansımız, müşterilerimize Web Tasarım, Sosyal Medya Danışmanlığı, Sosyal Medya Reklamları, Google Ads Hizmeti, Google Harita Seo Hizmeti, Grafik Tasarım ve Dijital Pazarlama Uzmanlığı alanında profesyonel hizmetler sunmaktadır.",
+    "intro2": "Bu süreçte Kanada, Amerika, İngiltere ve Türkiye gibi birçok ülkede dijital hizmetler sunduk. Aynı zamanda, bir yazılımcı olarak bu alanlarda kapsamlı çözümler geliştirdim ve müşterilerimizin dijital dünyada daha etkin olmalarını sağladım.",
+    "successesTitle": "Gem Dijital Pazarlama Ajansı'nın Başarıları:",
+    "success1": "Potansiyel Müşteri Üretimi: 1 Milyon'a yakın potansiyel müşteri üretilerek işletme sahipleri ile buluşturulmuştur.",
+    "success2": "Google Reklam Harcaması: $750.000'dan fazla Google reklam harcaması yapılarak işletmelerin büyümesi sağlanmıştır.",
+    "success3": "YouTube Reklam Harcaması: $100.000'dan fazla YouTube reklam harcaması yapılarak öne çıkan YouTube reklamları oluşturulmuştur.",
+    "success4": "Reklam Videosu Üretimi: 10.000'den fazla reklam videosu üretilmiştir.",
+    "success5": "SEO Anahtar Kelime Üretimi: 125.000'den fazla SEO anahtar kelime üretilerek şirketlerin Google'da ilk sıralarda çıkması sağlanmıştır.",
+    "success6": "Web Sitesi Tasarımı: 80'den fazla web sitesi tasarlandı ve toplamda 980'den fazla sayfa oluşturularak işletmelerin dijital varlıkları güçlendirildi."
+  }
+}
